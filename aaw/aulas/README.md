@@ -1,5 +1,5 @@
 
-# RA 202451089978 — Fernando josé dos Reis Cruz
+# RA 202451089978 — Fernando José dos Reis Cruz
 
 Repositório de exercícios práticos das disciplinas cursadas em **2026.2**.
 
