@@ -11,7 +11,7 @@ Repositório de exercícios práticos das disciplinas cursadas em **2026.2**.
 | Pasta | Disciplina |
 |---|---|
 | `aaw/` | Arquitetura de Aplicações Web |
-| `pw/`  | Programação Web |
+
 
 Em cada disciplina:
 
